@@ -1,0 +1,12 @@
+- title: Introduction
+  items:
+  - id: what-is-it
+    title: What is it?
+  - id: how-it-works
+    title: How it works
+- title: Usage
+  items:
+  - id: installation
+    title: Installation
+  - id: using
+    title: Using It
